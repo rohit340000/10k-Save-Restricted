@@ -157,8 +157,8 @@ async def run_batch(userbot, client, sender, countdown, link):
             return -2
 
 C = "/cancel"
-START_PIC = "https://graph.org/file/da97ceca70e55983b4891.png"
-TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __**Team SPY**__."
+START_PIC = "https://telegra.ph/file/4ec9397a91e98149c256d.jpg"
+TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __** @Oye_oo **__."
 
 @gagan.on(events.NewMessage(pattern=f"^{C}"))
 async def start_command(event):
@@ -166,7 +166,7 @@ async def start_command(event):
     buttons = [
         [Button.inline("Cancel", data="cancel"),
          Button.inline("Cancel", data="cancel")],
-        [Button.url("Join Channel", url="https://telegram.dog/dev_gagan")]
+        [Button.url("Join Channel", url="https://t.me/jaiavsjqhab")]
     ]
 
     # Sending photo with caption and buttons
