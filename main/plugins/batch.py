@@ -23,7 +23,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
-batch = []
+rohit = []
 ids = []
 
 '''async def get_pvt_content(event, chat, id):
@@ -31,7 +31,7 @@ ids = []
     await event.client.send_message(event.chat_id, msg) 
 '''
 
-@gagan.on(events.NewMessage(incoming=True, pattern='/batch'))
+@gagan.on(events.NewMessage(incoming=True, pattern='/rohit'))
 async def _batch(event):
     s = False
     if f'{event.sender_id}' in batch:
@@ -122,7 +122,7 @@ async def run_batch(userbot, client, sender, countdown, link):
             await get_bulk_msg(userbot, client, sender, link, integer)
             protection = await client.send_message(sender, f"Sleeping for `{timer}` seconds to avoid Floodwaits and Protect account!")
             await countdown.edit(count_down, 
-                                 buttons=[[Button.url("Join Channel", url="https://t.me/dev_gagan")]])
+                                 buttons=[[Button.url("Join Channel", url="https://t.me/jaiavsjqhab")]])
             await asyncio.sleep(timer)
             await protection.delete()
         except IndexError as ie:
@@ -145,13 +145,13 @@ async def run_batch(userbot, client, sender, countdown, link):
                     #print(e)
                     logger.info(e)
                     if countdown.text != count_down:
-                        await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="http://t.me/dev_gagan")]])
+                        await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="https://t.me/jaiavsjqhab")]])
         except Exception as e:
             #print(e)
             logger.info(e)
             await client.send_message(sender, f"An error occurred during cloning, batch will continue.\n\n**Error:** {str(e)}")
             if countdown.text != count_down:
-                await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="https://t.me/dev_gagan")]])
+                await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="https://t.me/jaiavsjqhab")]])
         n = i + 1
         if n == len(ids):
             return -2
@@ -179,7 +179,7 @@ async def start_command(event):
             
 TEXTING = """
 ```
-Execute /batch command only when you 100% sure.
+Execute /rohit command only when you 100% sure.
 Bcz /cancel event is removed to make bot work perfectly.
 Thanks - Team SPY
 
