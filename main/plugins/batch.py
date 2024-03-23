@@ -1,4 +1,4 @@
-#Join t.me/dev_gagan
+#Join t.me/jaiavsjqhab
 
 import logging
 import time, os, asyncio
@@ -70,7 +70,7 @@ async def _batch(event):
                 return
             batch.append(f'{event.sender_id}')
             cd = await conv.send_message("**Batch process ongoing...**\n\nProcess completed: ", 
-                                    buttons=[[Button.url("Join Channel", url="http://t.me/dev_gagan")]])
+                                    buttons=[[Button.url("Join Channel", url="https://t.me/jaiavsjqhab")]])
             co = await run_batch(userbot, Bot, event.sender_id, cd, _link) 
             try: 
                 if co == -2:
