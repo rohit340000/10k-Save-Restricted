@@ -13,27 +13,27 @@
     "success_url": "https://t.me/dev_gagan",
     "env": {
             "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "1666a6103085d7c5c0a15c2ce1037968",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "21896592",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "7133874115:AAHEVKSop93SDdETYYpH3WvA6JSDzKNlwI0",
             "value": ""
         },
         "SESSION": {
-            "description": "Pyrogram string session.",
+            "description": "BQFOHZAALpn3WtNACyIRvmSdw9d4UfSGJ9sem5_yWkGtOSLhc4Xi7ASDZpmyLqo9jiXk1f5qO6AuoiTYMgaoCWRPXssklx8W3vOy248LY9UAD4j1Ur0Kd7TKbgOff9APcfStSfGoJA-QwN0j2VBFTmM0VDRuTE9oMBgOEMmlrw2v1RefqG5zYUjJKzloZM612Vm7Cfx5oBBnGiWJ-sXl3uppYgLsT5wXHJVu6Or0QgQ68WxBDF5k2gsufj051Fa3m2Iw0JQ5UD0XSxyOcBwyoe0s8bMma12VzxYjdnPdpqSvsR1btwN2D55ghSSSsbKgPq1vCF9iX0O9eEyQOIN6KfRf92sb_wAAAAE5MkcuAA",
             "value": ""
         },
         "AUTH": {
-            "description": "User ID of Bot owner.",
+            "description": "2113261793",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
+            "description": "naakwnwnwjwjq",
             "value": ""
         }
     },
