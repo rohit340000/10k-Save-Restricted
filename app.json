@@ -13,15 +13,15 @@
     "success_url": "https://t.me/dev_gagan",
     "env": {
             "API_HASH": {
-            "description": "1666a6103085d7c5c0a15c2ce1037968",
+            "description": "5f5518e20672b9366c37e534201e204b",
             "value": ""
         },
         "API_ID": {
-            "description": "21896592",
+            "description": "20612052",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "7133874115:AAHEVKSop93SDdETYYpH3WvA6JSDzKNlwI0",
+            "description": "7080156989:AAEVocEG5NDW-Jz7T-fmFy2edmeDzwFEq9U",
             "value": ""
         },
         "SESSION": {
@@ -29,11 +29,11 @@
             "value": ""
         },
         "AUTH": {
-            "description": "2113261793",
+            "description": "6959267079",
             "value": ""
         },
         "FORCESUB": {
-            "description": "jaiavsjqhab",
+            "description": "ssfkdfk",
             "value": ""
         }
     },
