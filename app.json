@@ -13,23 +13,23 @@
     "success_url": "https://t.me/dev_gagan",
     "env": {
             "API_HASH": {
-            "description": "5f5518e20672b9366c37e534201e204b",
+            "description": "3d9ff72941b7c8ecafbadf7d625f0108",
             "value": ""
         },
         "API_ID": {
-            "description": "20612052",
+            "description": "27100684",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "7115078724:AAGnvD6znU7lwTEhOUC1ah0pU7xK24Lxj8w",
+            "description": "7180683740:AAFhuElzajSsi_709T_NCZjkm3ye6RoR3uw",
             "value": ""
         },
         "SESSION": {
-            "description": "BQE6g9QAL0gWcpZ9mmNhtP4tzSlJwqrjbNETa3R5WHr7o3MMpqmZEsps1I7P13JgXANY49TBa9-NUw-7UNlQNgtq_2DfVD939b95Zhlnkdqz08UKjOJ7qeUSI2b41IpQLJxUL0XqglNhOX0PYY9Cv2oaiAMkgOHvKB6r5qAlRQ717o0g0RUGoSyqlSirH02rk_n4vsyrHFIePw_7Scb-ly0T6sKGspCmbV0OY2UUPcaCrvStvXyEclkUJWM41qjjW9k75RzbcepQhE8CtHkpyS119m4GyTIEgn26Zz0y4VvzSFTNoMY3kDTdGA7a2tkD7UP55wFrSYJEKruhXkWXJRyykgvLeQAAAAGezf0HAA",
+            "description": "BQGdhgwAAAgCAHqKTpK_YeuyGy3DhXHaEGp5l2x7jHNbT6WgtSh8kGPu_ajrjRXzUD4BS4Awh-52tBsXAYs-8rd-gUMxPo9YKCFnXqqqzXrLGLlAcR90Hjm3Vrh_UGUKbZ3SWasCwrnDY_jI31FAZKR40P-zPpN8zQ2luasy4fPB-a1woH8TZMs3dWpFciosl7gPBsFbDF36RuqGmmxOqv7cmgRJFemuCaeHXBfHJtKa2lGDKYnKTSbML4ODE6y0a6CiVLFnteR8d39LAEeId7kQaVTLiyvHRTpFkViCT7oiXLKyvyuitzRMB2lLiMHDXHpCPb3fpmQDirlrnn83I-HreRdVeAAAAAFxj5dOAA",
             "value": ""
         },
         "AUTH": {
-            "description": "6959267079",
+            "description": "2113261793",
             "value": ""
         },
         "FORCESUB": {
