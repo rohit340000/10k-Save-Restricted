@@ -23,7 +23,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
-rohit = []
+batch = []
 ids = []
 
 '''async def get_pvt_content(event, chat, id):
@@ -179,7 +179,7 @@ async def start_command(event):
             
 TEXTING = """
 ```
-Execute /rohit command only when you 100% sure.
+Execute /batch command only when you 100% sure.
 Bcz /cancel event is removed to make bot work perfectly.
 Thanks - Team SPY
 
