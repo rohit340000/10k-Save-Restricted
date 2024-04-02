@@ -13,19 +13,19 @@
     "success_url": "https://t.me/dev_gagan",
     "env": {
             "API_HASH": {
-            "description": "98adfcd5a1d8ffb807b692f46049a57d",
+            "description": "3d9ff72941b7c8ecafbadf7d625f0108",
             "value": ""
         },
         "API_ID": {
-            "description": "27453738",
+            "description": "27100684",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "6445042890:AAHbjlbwcAEg7sMXtE5Tv3AMTcslhD2PgPA",
+            "description": "6577621188:AAHs1M2CbyYqSQGDtOr1T83nnXkJB-Kav28",
             "value": ""
         },
         "SESSION": {
-            "description": "BQGi6SoAKQHb8G_UQlGQTDAMw9GsxOJ1_rGRgZ6Hgy7U1BPc_4oPRuq2GJRR3D73i6Ufn0nI2pSUS8bqg5YreGxY9CXaUdePyM5BJ-Boo6F810SbrKzE6Y96e0ncDJ4Q1lJCxZ40hixS-313aY20dqIjvpr0KAG5tzqyXvf6-dY7zL-GNkv2xbb1BlHpyrNhEFaMcKSx4RSjSgPE-o5GiFgh-aNUXzQlD4Ucy2Pgmfa6WVKGbiA8d4QXiWyIv27kZM8ccIMBpRmdGvBFYxlexfIKxNqw6DBbKX3e9kHQyxybDWx7-UlNeNcAO2GmcdpzEiyXIB30VsSGRtvtrikaMcP2Z_7bvwAAAAGKJ3EaAA",
+            "description": "BQGdhgwAiBHFcBK-n8tMB-Tp5q7fOI8uDN4NrBw5wWpIDX0hOIdQNj9KQOUT5FcLRubZBwZq8Y7wGLLMCvqY7SthztXHjGqnMUQVcrf9mSaPMR9DCwcZJ0hZ5cOIypMHcWGzttsZnxr1AyAfE2Ew6PjKDBKhKDJ7ghTho45hGUd4d1IKGostnLueix2WShbak8wjz6HIOSks3r09QKqX17oQWo2TwuJOXcGESyB7q1IW2U-TrsFoJ3QajjzbTWkQkUaiif_QMGoqikX7lYAYGPMhfoUgXvhrukWD2PzoO7MwtfETkV5_PiQqh5xMaR_CbN_6jSh4pOQRGEkdWIZ7K_y2lXa-zQAAAAFxj5dOAA",
             "value": ""
         },
         "AUTH": {
