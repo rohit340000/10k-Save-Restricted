@@ -13,7 +13,7 @@
     "success_url": "https://t.me/dev_gagan",
     "env": {
             "API_HASH": {
-            "description": ""96fbb6ad2e11ab04e83ca09ef3f42455,
+            "description": "96fbb6ad2e11ab04e83ca09ef3f42455",
             "value": ""
         },
         "API_ID": {
