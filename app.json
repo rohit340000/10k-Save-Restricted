@@ -10,26 +10,26 @@
     ],
     "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
     "website": "",
-    "success_url": "https://t.me/dev_gagan",
+    "success_url": "https://t.me/jaiavsjqhab",
     "env": {
             "API_HASH": {
-            "description": "5f5518e20672b9366c37e534201e204b",
+            "description": "",
             "value": ""
         },
         "API_ID": {
-            "description": "20612052",
+            "description": "",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "7014251793:AAG04TqH-7_gy0ZkxVEBqL_DOZ2uhoaciGA",
+            "description": "",
             "value": ""
         },
         "SESSION": {
-            "description": "BQE6g9QAlpixKQdkIAdCLYEjq8o-lMEtTE8pYqdCB3hxP5FWLhEYx4INsQIlrPN2KC7e5nLXSf5B-8lxo20XmpApioLADr1GcW5GLnl-2Ax-xHaVYPVfmRybkKVoBEF05nWrwD8nt2zrpeg4_nvFtO_zxbY6p0npByv6ixkM7EOEQVz0Vhkta7eIjiFwFUe9jE95lEQTHch2tETCKMrLL3qzRg8fBAo8hT-Ba6aHpIun0R5crsp1nW_qFJF6wrjHOczn7ziPP5RO7L3tbvx3oqGXBetn-0XVak0yruUh_zYV40a2HIvaGypeErVhCCL-3wr4wLgVB75KrnoMIkd_3v5sHOXkbgAAAAGezf0HAA",
+            "description": "",
             "value": ""
         },
         "AUTH": {
-            "description": "6959267079",
+            "description": "",
             "value": ""
         },
         "FORCESUB": {
