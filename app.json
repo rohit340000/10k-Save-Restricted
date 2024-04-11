@@ -13,23 +13,23 @@
     "success_url": "https://t.me/jaiavsjqhab",
     "env": {
             "API_HASH": {
-            "description": "",
+            "description": "96fbb6ad2e11ab04e83ca09ef3f42455",
             "value": ""
         },
         "API_ID": {
-            "description": "",
+            "description": "27498866",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "",
+            "description": "6679224035:AAHF4L4vYHkSqtAhE3446kEXHWAvKcX9ghA",
             "value": ""
         },
         "SESSION": {
-            "description": "",
+            "description": "AQGjmXIAr7vYv9lJyCo44o2C1RSb0LvtJH9RC3-IbvJCleAw5Ta0OcPiJBRNGGdA0EoKBoEUcBU4ZlEyU3gpxfvBnfq_Db1zvSIzNybjcAJCKOZJHVVUvyamAp52B-gzoUdH3PmdM2_MWVur6v5v1V4-YsLASSf8vpIN5hGsq6TM3mn8OR8j9qBGKQsHCrK5jvNxR6uegAmshb8hv4wjXar81CiVisgjs2asgc4C7T62iDPExE-IJOnS5tUgremgdnkzTrhc-WJW-cgeT08p-AjN0pe_4yKzUh55ySI3ahmGzGNBAvdzXdUXaqeI3r0GFoNeIxeWmoXtc3ZgYp-wwbPOg3c2qQAAAAGCxO3dAA",
             "value": ""
         },
         "AUTH": {
-            "description": "",
+            "description": "6488911325",
             "value": ""
         },
         "FORCESUB": {
