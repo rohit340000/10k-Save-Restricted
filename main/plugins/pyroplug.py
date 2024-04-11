@@ -215,7 +215,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                 progress=progress_for_pyrogram,
                 progress_args=(
                     client,
-                    "**__Unrestricting__: __[Team SPY](https://t.me/dev_gagan)__**\n ",
+                    "**__Unrestricting__: __[˙⁠❥⁠˙ℝ𝕆ℍ𝕀𝕋˙⁠❥˙⁠](https://t.me/jaiavsjqhab)__**\n ",
                     edit,
                     time.time()
                 )
