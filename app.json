@@ -13,23 +13,23 @@
     "success_url": "https://t.me/galib_shayar",
     "env": {
             "API_HASH": {
-            "description": "36709c81d7609a81f86de931cbc87f3a",
+            "description": "96fbb6ad2e11ab04e83ca09ef3f42455",
             "value": ""
         },
         "API_ID": {
-            "description": "25891183",
+            "description": "27498866",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "7005256797:AAF0NadVKl4HVKJSr0T1Brn787_RaERwkMA",
+            "description": "7106018910:AAE5OFmr1KxZ9kaBP9cAUBxTMiUo4ISp56w",
             "value": ""
         },
         "SESSION": {
-            "description": "BQGLEW8Aei1WE4jXn3Ar8bUaivo7T5gr9p4KMIx0V39H77-2sDpSZL0XOLYMIBITJ9L6nLXuLMTdYWvK7lsHbP0589pFrq47wD-WDiDqZXe8wax2Gl0GD6gCymAdsKz3n-JyYd1oUVPnB5Nf-FLSyvufFPrKm0isPqbrW32YQFEuafzFFTKh_wcero5pDvgU88Y91UChYW5NGnaV19GECHtX-lM9FbOhwFMJyKDebxY6e6YFIWcloq9djYOivDsZk_jM_XEPpPioDvDs39GcQH-0hxOGqHRI7TnTvz7L30i-a5s8191M5e3yOoZ8plrLDIQJnkd0wfibKcVb6N2-J-mRY78GxAAAAAB99dDhAA",
+            "description": "AQGjmXIARyP2otUycZ3EQS7NVUK1B1-vLulTcmHbHZmTFT7QzZ5Sd2YbsNaGIyyviPy1hv_CBZYNejQhsIBahNtbRJ5u2iXQWFwwf88h42M7UOG2JeFfnzVysnAwCbqLwMIX1apvYliIHJixN0n75qStgHlqjsAI3d3g9wY9tDoGEzbYPJZ4UaKiEaxWARJin9vB6Ur1lFhEgVaccQJVPy0ZI0ZWsWZ5JQlE3t_NbdQfn5OEe-Gs6sDZ7K-Y0JX7d9VlBBPo_7XtsUmkbofSNRhak5xzNd_aAaw4CZ364lPxNuUW40d0HP3V3situoCGo6-HssNDlGcB-QcahlLwLRixp7s7MgAAAAGCxO3dAA",
             "value": ""
         },
         "AUTH": {
-            "description": "2113261793",
+            "description": "6488911325",
             "value": ""
         },
         "FORCESUB": {
