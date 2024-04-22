@@ -18,7 +18,7 @@ from main.plugins.helpers import TimeFormatter,  humanbytes
 
 
 
-@gagan.on(events.NewMessage(incoming=True, func=lambda e: e.is_private, pattern='/stats'))
+@gagan.on(events.NewMessage(incoming=True, func=lambda e: e.is_private, pattern='/status'))
 async def stats(event):
     
    # duz = event.reply("...")
@@ -56,7 +56,7 @@ async def stats(event):
             f'Memory Total: {mem_t}\n'\
             f'Memory Free: {mem_a}\n'\
             f'Memory Used: {mem_u}\n'\
-            f'Powered by **__[Team SPY](https://t.me/dev_gagan)__**\n'
+            f'Powered by **__[˙⁠❥⁠˙ℝ𝕆ℍ𝕀𝕋˙⁠❥˙⁠](https://t.me/galib_shayar)__**\n'
     
     await event.reply(f"{stats}")
    #duz.edit(stats)
