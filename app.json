@@ -10,30 +10,30 @@
     ],
     "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
     "website": "",
-    "success_url": "https://t.me/jaiavsjqhab",
+    "success_url": "https://t.me/galib_shayar",
     "env": {
             "API_HASH": {
-            "description": "96fbb6ad2e11ab04e83ca09ef3f42455",
+            "description": "36709c81d7609a81f86de931cbc87f3a",
             "value": ""
         },
         "API_ID": {
-            "description": "27498866",
+            "description": "25891183",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "7114451081:AAE6Rjpy3w9YynFaEmgqsru28JJhLOZr54o",
+            "description": "7005256797:AAF0NadVKl4HVKJSr0T1Brn787_RaERwkMA",
             "value": ""
         },
         "SESSION": {
-            "description": "BQGi6SoAaUGQkc8x8zvxbHVcnhVlXgZd1G8AaoYzUIpNueCTxYv6lkkN_dyhhloviPMRHACAhpxI2xYRhgTRdw4nS8Izt0yTzl-zFxG5S1fPMVEK3YCUeejPof3PlO357BXEWsSsLVsnc-do_FipJFEWUlL2g9wdiybsSCBF1_RQHiGa334FquR04tGEbqaMiA-3gUwX6sqv0mvYbgtE9AGB7hB90xWvUDmOV9e_V8FjK9spnEIdcj24YmWZo4_IVaoI592K-8JJaW-s4qcFPFhXsfMzeWsKRkQJHwZHk7uUAokwZLHwEVUzGyAnFS_jK7ti92vyzlyksdaju-16L6ypZYzHwwAAAAGKJ3EaAA",
+            "description": "BQGLEW8Aei1WE4jXn3Ar8bUaivo7T5gr9p4KMIx0V39H77-2sDpSZL0XOLYMIBITJ9L6nLXuLMTdYWvK7lsHbP0589pFrq47wD-WDiDqZXe8wax2Gl0GD6gCymAdsKz3n-JyYd1oUVPnB5Nf-FLSyvufFPrKm0isPqbrW32YQFEuafzFFTKh_wcero5pDvgU88Y91UChYW5NGnaV19GECHtX-lM9FbOhwFMJyKDebxY6e6YFIWcloq9djYOivDsZk_jM_XEPpPioDvDs39GcQH-0hxOGqHRI7TnTvz7L30i-a5s8191M5e3yOoZ8plrLDIQJnkd0wfibKcVb6N2-J-mRY78GxAAAAAB99dDhAA",
             "value": ""
         },
         "AUTH": {
-            "description": "6488911325",
+            "description": "2113261793",
             "value": ""
         },
         "FORCESUB": {
-            "description": "jaiavsjqhab",
+            "description": "galib_shayar",
             "value": ""
         }
     },
