@@ -5,7 +5,7 @@ from telethon.tl.types import InputMediaPhoto
 
 S = "/start"
 START_PIC = "https://telegra.ph/file/4ec9397a91e98149c256d.jpg"
-TEXT = " I Am A Paid Bot, Please Contact My Owner To Use Me..  @Oye_oo"
+TEXT = " I Am A Paid Bot, Please Contact My Owner To Use Me..  @ll_BAD_BOI_ll"
 
 def is_set_button(data):
     return data == "set"
@@ -52,7 +52,7 @@ async def start_command(event):
     buttons = [
         [Button.inline("SET THUMB", data="set"),
          Button.inline("REM THUMB", data="rem")],
-        [Button.url("Join Channel", url="https://t.me/jaiavsjqhab")]
+        [Button.url("Join Channel", url="https://t.me/galib_shayar")]
     ]
 
     # Sending photo with caption and buttons
