@@ -4,7 +4,7 @@ from telethon import events, Button
 from telethon.tl.types import InputMediaPhoto
 
 S = "/start"
-START_PIC = "https://telegra.ph/file/4ec9397a91e98149c256d.jpg"
+START_PIC = "https://telegra.ph/file/afbd6f597f0d8f3c0b4af.jpg"
 TEXT = " I Am A Paid Bot, Please Contact My Owner To Use Me..  @ll_BAD_BOI_ll"
 
 def is_set_button(data):
