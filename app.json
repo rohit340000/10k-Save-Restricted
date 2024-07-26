@@ -13,11 +13,11 @@
     "success_url": "https://t.me/galib_shayar",
     "env": {
             "API_HASH": {
-            "description": "96fbb6ad2e11ab04e83ca09ef3f42455",
+            "description": "3d9ff72941b7c8ecafbadf7d625f0108",
             "value": ""
         },
         "API_ID": {
-            "description": "27498866",
+            "description": "27100684",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -25,15 +25,15 @@
             "value": ""
         },
         "SESSION": {
-            "description": "AQGjmXIAUICsuGzbhB7u9JVXTguDzP5CS300ihTq2kW0f3iX863l0b7q_2EoW-J2ArdXZIVPgw2U3BvC32gIZKQw7199VQytr36LxPHdIZgPH1pkP6vV1_F9aNBGQqIcazIACbA8LPqQO4NsYo0SZXriABudWciolJ2v_Ib9QEX5eR-GM77mMdsrbN9rZEJS9OjYUtOWge7CV2aXQHSWXc1NQUcPwolZ6UeSfQpSeGofHTpmBF69oKQp6pe2yihkQdk_n_jOQF6QVe3fI-qwTiWQAkAta9UCCTe6HSCGaMpU1pku2Hx_M7BpBv41DxAPThsWRkB2U7fB1yXOyFd0HC-ybQUpYwAAAAGCxO3dAA",
+            "description": "",
             "value": ""
         },
         "AUTH": {
-            "description": "6488911325",
+            "description": "6200203086",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Berozgar_Shayar",
+            "description": "save_restricted_bot_7",
             "value": ""
         }
     },
